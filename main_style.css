@@ -1,0 +1,10 @@
+.button {
+    font-size: 23px;
+    color: cyan;
+    box-shadow: 10px 10px 10px yellow;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
